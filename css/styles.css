@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+.contenedor-flexible{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.uno{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+}
+
+.dos{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+}
+
+.tres{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+}
+
+.cuatro{
+    background-color: green;
+    width: 250px;
+    height: 250px;
+}
+
+.cinco{
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+}
