@@ -27,6 +27,8 @@ body{
     flex-shrink: 1;
     background-image: url(frank.png);
     background-position: center;    
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .dos{
@@ -36,6 +38,8 @@ body{
     flex-shrink: 1;
     background-image: url(kailo.jpg);
     background-position: center;    
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .tres{
@@ -45,4 +49,6 @@ body{
     flex-basis: 50vh;
     flex-grow: 1;
     flex-shrink: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
